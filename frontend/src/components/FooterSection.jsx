@@ -54,7 +54,7 @@ const FooterSection = () => {
               <Link2 className="w-6 h-6 text-[#5C6247]" />
             </a>
             <a 
-              href="mailto:contact@jivaorganics.com"
+              href="mailto:info.jivaorganics@gmail.com"
               className="w-14 h-14 bg-[#D4A259] rounded-full flex items-center justify-center hover:bg-[#C09248] transition-all duration-300 hover:scale-110"
               aria-label="Email"
             >
