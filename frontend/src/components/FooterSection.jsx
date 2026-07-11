@@ -1,5 +1,5 @@
 import React from 'react';
-import { Instagram, Facebook, Mail } from 'lucide-react';
+import { Instagram, Facebook, Mail, Link2 } from 'lucide-react';
 
 const FooterSection = () => {
   return (
@@ -43,6 +43,15 @@ const FooterSection = () => {
               aria-label="Facebook"
             >
               <Facebook className="w-6 h-6 text-white" />
+            </a>
+            <a 
+              href="https://linktr.ee/jiva.organics"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-14 h-14 bg-white rounded-full flex items-center justify-center hover:bg-gray-100 transition-all duration-300 hover:scale-110 border-2 border-[#5C6247]"
+              aria-label="Linktree"
+            >
+              <Link2 className="w-6 h-6 text-[#5C6247]" />
             </a>
             <a 
               href="mailto:contact@jivaorganics.com"
