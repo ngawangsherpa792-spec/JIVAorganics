@@ -57,7 +57,7 @@ const JourneySection = () => {
     },
     {
       title: 'Cow Milk Collection',
-      date: 'June 24, 2026 - July 1, 2026',
+      date: 'July 1 to July 12',
       location: 'Village Farm: Ranitar Chakrumba, Panchthar Nepal',
       description: 'Milk Producers: Chakramba Farmers',
       image: 'https://cup-com.my.canva.site/jiva-organics/_assets/media/8cf485661789c31d86c0e8fe12d7477a.png',
@@ -65,7 +65,7 @@ const JourneySection = () => {
     },
     {
       title: 'Nauni (Raw Butter) Preparation',
-      date: 'June 24, 2026 - July 1, 2026',
+      date: 'July 1 to July 12',
       location: 'Ranitar Chakrumba, Panchthar Nepal',
       description: 'Nauni Producer: Mr. Biren Nembang',
       image: 'https://cup-com.my.canva.site/jiva-organics/_assets/media/e58dbc734d0bf5d6639806f76d8d09d6.png',
