@@ -31,10 +31,10 @@ const HeroSection = () => {
             </div>
             <div className="mt-6 md:mt-8 space-y-2">
               <p className="text-lg md:text-xl lg:text-2xl text-[#4A5D3F]">
-                <span className="font-bold">Batch No.:</span> JO-GH-26711-11
+                <span className="font-bold">Batch No.:</span> JO-GH-26716-12
               </p>
               <p className="text-lg md:text-xl lg:text-2xl text-[#4A5D3F]">
-                <span className="font-bold">Volume:</span> 1 Ltre, 500ml, 300ml
+                <span className="font-bold">Volume:</span> 1 Litre, 500ml, 300ml
               </p>
             </div>
             

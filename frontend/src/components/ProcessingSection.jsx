@@ -16,7 +16,7 @@ const ProcessingSection = () => {
               
               <div className="flex items-center gap-2 mb-3">
                 <Calendar className="w-5 h-5 text-[#D4A259]" />
-                <p className="text-base md:text-lg text-[#4A5D3F]">July 11, 2026</p>
+                <p className="text-base md:text-lg text-[#4A5D3F]">July 16, 2026</p>
               </div>
               
               <div className="flex items-start gap-2">
